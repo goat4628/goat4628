@@ -1,5 +1,2 @@
-<<<<<<< HEAD
+
 prepare to merge
-=======
-something change
->>>>>>> feat_a
